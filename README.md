@@ -15,3 +15,7 @@ Directions and Features:
 Do go through the project to learn more.
 
 Note: Only Nouns are allowed.
+
+![image](https://user-images.githubusercontent.com/63442163/151691240-215f2adf-c05c-467e-ae32-e62437769a90.png)
+
+![image](https://user-images.githubusercontent.com/63442163/151691251-509b7a90-4ad5-4981-8692-e866ead77c63.png)
